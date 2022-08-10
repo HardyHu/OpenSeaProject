@@ -278,21 +278,3 @@ webdriver.Chrome()
 
 所以自动化的执行机里一般对环境要求严格，输入法统一，界面分辨率统一，浏览器要弹框确认，更要禁用升级。
 
-![image-20220809114307205](C:\Users\KaiHe\AppData\Roaming\Typora\typora-user-images\image-20220809114307205.png)
-
-4、动态获取页面的元素链接
-
-​	使用execute_script(js)和get_attribute
-
-5、运行三遍后，突然报错，提示executable_path被弃用。
-
-![image-20220809202353915](C:\Users\KaiHe\AppData\Roaming\Typora\typora-user-images\image-20220809202353915.png)
-
-6、浏览器自动升级，导致驱动不兼容
-
-![image-20220810112910075](C:\Users\KaiHe\AppData\Roaming\Typora\typora-user-images\image-20220810112910075.png)
-
-​	重新下载驱动试试，解决了浏览器自动升级导致的驱动失效
-
-
-
