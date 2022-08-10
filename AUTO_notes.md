@@ -27,6 +27,7 @@ https://opensea.io/__api/graphql/
 顺利完成：
 
 ![image-20220810152841776](C:\Users\KaiHe\AppData\Roaming\Typora\typora-user-images\image-20220810152841776.png)
+[AUTO_notes.md](https://github.com/HardyHu/OpenSeaProject/files/9300563/AUTO_notes.md)
 
 ## 遇到问题：
 
